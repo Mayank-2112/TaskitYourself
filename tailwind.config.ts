@@ -18,6 +18,11 @@ const config = {
       },
     },
     extend: {
+      fontFamily:{
+        'shadow': 'Shadow Into Light',
+        'permanent': "Permanent Marker",
+        'caveat': 'Caveat Brush',
+      },
       colors: {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
