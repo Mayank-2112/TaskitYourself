@@ -12,9 +12,8 @@ import {
   AlertDialogTitle,
   AlertDialogTrigger,
 } from "@/components/ui/alert-dialog"
-import Register from './Register'
 import Login from './Login'
-
+import Register from './Register'
 
 const Navbar = () => {
   return (
